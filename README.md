@@ -36,8 +36,8 @@ const yogesh: Developer = {
 - 🎓 **B.Tech CSE** at Rajasthan Technical University, Kota — CGPA **8.19**
 - 💼 **SDE Intern** at Jeevijay Technologies — contributed to **5 live projects** across EdTech, E-commerce & Healthcare
 - 🌍 Founder-minded builder — my projects have **real users, real traffic, real SEO**
-- 🏆 **Top 10 of 200 teams** at Unstoppable Hackathon, LNMIIT Jaipur
-- 📈 **16K+ Google Search Impressions** on zero2career.in
+- 🏆 **Top 16 of 200 teams** at Unstoppable Hackathon, LNMIIT Jaipur
+- 📈 **75K+ Google Search Impressions** on zero2career.in
 - 🎮 **25–30 daily users** on businessgame.online from US & India
 
 <br/>
