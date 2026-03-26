@@ -29,7 +29,7 @@ const yogesh: Developer = {
   interests:  ["SaaS", "Real-time Systems", "AI Products", "EdTech"],
   currently:  "Building scalable web platforms that solve real problems",
   leetcode:   "100+ DSA problems solved",
-  hackathons: "Top 10 / 200 teams — Unstoppable Hackathon, LNMIIT Jaipur",
+  hackathons: "Top 16 / 200 teams — Unstoppable Hackathon, LNMIIT Jaipur",
 };
 ```
 
@@ -171,7 +171,7 @@ const yogesh: Developer = {
 
 | 🥇 Achievement | 📋 Details |
 |---|---|
-| 🏆 **Unstoppable Hackathon — LNMIIT Jaipur** | Ranked **Top 10 out of 200 teams** in the Grand Finale |
+| 🏆 **Unstoppable Hackathon — LNMIIT Jaipur** | Ranked **Top 16 out of 200 teams** in the Grand Finale |
 | 📈 **16K+ Search Impressions** | Organic SEO growth on zero2career.in |
 | 🎓 **Class 12 School Topper** | Scored **97% in PCM**, secured **1st Rank** in school |
 | 💻 **LeetCode 100+ Problems** | Consistent DSA problem-solving practice |
