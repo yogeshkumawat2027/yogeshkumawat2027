@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yogesh%20Kumawat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20RTU%20Kota%20%7C%20Building%20Real%20Products&descAlignY=58&descSize=16&descColor=a8b2d8" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7EB2FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=45&lines=Hey!+I'm+Yogesh+%F0%9F%91%8B+%E2%80%94+Full+Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+Scalable+Web+Platforms;Built+Horoo.in+%7C+Zero2Career.in+%7C+BusinessGame.online;Top+10+%40+Unstoppable+Hackathon+%E2%80%94+LNMIIT+Jaipur+%F0%9F%8F%86;Turning+startup+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7EB2FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=45&lines=Hey!+I'm+Yogesh+%F0%9F%91%8B+%E2%80%94+Full+Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+Scalable+Web+Platforms;Built+Horoo.in+%7C+Zero2Career.in+%7C+businessgame.fun;Top+10+%40+Unstoppable+Hackathon+%E2%80%94+LNMIIT+Jaipur+%F0%9F%8F%86;Turning+startup+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@ const yogesh: Developer = {
   education:  "B.Tech CSE — RTU Kota | CGPA: 8.19",
   role:       "Full Stack Developer & Startup Builder",
   experience: "SDE Intern @ Jeevijay Technologies",
-  liveProds:  ["horoo.in", "zero2career.in", "businessgame.online"],
+  liveProds:  ["horoo.in", "zero2career.in", "businessgame.fun"],
   interests:  ["SaaS", "Real-time Systems", "AI Products", "EdTech"],
   currently:  "Building scalable web platforms that solve real problems",
   leetcode:   "100+ DSA problems solved",
@@ -38,7 +38,7 @@ const yogesh: Developer = {
 - 🌍 Founder-minded builder — my projects have **real users, real traffic, real SEO**
 - 🏆 **Top 16 of 200 teams** at Unstoppable Hackathon, LNMIIT Jaipur
 - 📈 **75K+ Google Search Impressions** on zero2career.in
-- 🎮 **25–30 daily users** on businessgame.online from US & India
+- 🎮 **25–30 daily users** on businessgame.fun from US & India
 
 <br/>
 
@@ -121,8 +121,8 @@ const yogesh: Developer = {
 
 ---
 
-### 🎮 [Business Game — Monopoly Simulation](https://businessgame.online)
-[![Live](https://img.shields.io/badge/🌐_Live-businessgame.online-5865F2?style=for-the-badge)](https://businessgame.online)
+### 🎮 [Business Game — Monopoly Simulation](https://businessgame.fun)
+[![Live](https://img.shields.io/badge/🌐_Live-businessgame.fun-5865F2?style=for-the-badge)](https://businessgame.fun)
 ![JavaScript](https://img.shields.io/badge/Stack-Vanilla_JS_(5000%2B_lines)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > Web-based Monopoly recreation with Play vs Computer & Play with Friends modes. **25–30 daily active users** from the US & India, tracked via Google Analytics.
