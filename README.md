@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yogesh%20Kumawat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20RTU%20Kota%20%7C%20Building%20Real%20Products&descAlignY=58&descSize=16&descColor=a8b2d8" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7EB2FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=45&lines=Hey!+I'm+Yogesh+%F0%9F%91%8B+%E2%80%94+Full+Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+Scalable+Web+Platforms;Built+Horoo.in+%7C+Zero2Career.in+%7C+businessgame.fun;Top+10+%40+Unstoppable+Hackathon+%E2%80%94+LNMIIT+Jaipur+%F0%9F%8F%86;Turning+startup+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7EB2FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=45&lines=Hey!+I'm+Yogesh+%F0%9F%91%8B+%E2%80%94+Full+Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+Scalable+Web+Platforms;Built+Horoo.in+%7C+Zero2Career.in+%7C+businessgame.fun;Top+16+%40+Unstoppable+Hackathon+%E2%80%94+LNMIIT+Jaipur+%F0%9F%8F%86;Turning+startup+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
