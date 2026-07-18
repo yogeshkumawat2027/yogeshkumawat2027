@@ -49,13 +49,7 @@ const yogesh: Developer = {
 </div>
 
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-[![Yogesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshkumawat2027&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7EB2FF&line=5865F2&point=7EB2FF&area_color=5865F2)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <br/>
 
